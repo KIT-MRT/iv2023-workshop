@@ -11,8 +11,6 @@ excerpt: 'An IV2023 workshop.'
 
 This workshop will be held at the [34rd IEEE Intelligent Vehicles Symposium (IV)](https://2023.ieee-iv.org/), on June 4th, 2022, in Anchorage, Alaska, USA. 
 
-Location: t.b.d.
-
 ## Call for Workshop Papers
 
 We will soon call for workshop contributions. Please find details on submission, scope and topics below and check this page regularly for updates. 

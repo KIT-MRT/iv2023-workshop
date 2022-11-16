@@ -27,6 +27,13 @@ The submission format will have to adhere to the IV 2023 guidelines, as found at
 
 Submitted papers shall not exceed six pages (two additional pages allowed with a fee) as a PDF file in IEEE two column format. All presented papers will be published by the IEEE and the conference proceedings will be submitted to the IEEE Xplore digital library, as long they follow the same review process of IEEE IV 2023, so that each paper will undergo a peer-reviewing process by at least two members of the International Program Committee. Contributions will be reviewed according to relevance, originality and novel ideas, technical soundness and quality of presentation
 
+## Topics
+
+- Cooperative and comprehensible motion planning 
+- Probabilistic decision making and motion planning (including MDPs, POMDPs, MMDPs) 
+- Probabilistic behavior prediction (with help of semantic high-definition maps) 
+- Second-order effects in heavy interactive scenarios
+- Evaluation and benchmarking of the aforementioned topics
 
 ## About the Workshop
 
@@ -36,19 +43,13 @@ Research on Automated Vehicles has experienced vast progress over the last decad
 For such behavior, sophisticated behavior prediction approaches for other traffic participants are necessary, going beyond constant velocity assumptions. Predictions must be probabilistic and allow for maneuver options for other vehicles. Often, there is not “the right prediction”, but many. The choice is influenced by destinations as much as individual driving behaviors and potentially even the drivers’ mood. Thus, a simple evaluation against a ground truth is not possible. Prediction approaches, including but not limited to machine learning based approaches, as well as proposals for their evaluation, are the second main goal of this workshop.
 
 
-For motion planning in highly interactive scenarios, a “ground truth” or “best option” is also not existing. To be comprehensible and predictable for other road users, a good plan should be a subs et of an expected prediction for a vehicle in the same situation. The combination of planning and prediction, including but not limited to their evaluation and benchmarking, is the third aim of the proposed workshop.
+For motion planning in highly interactive scenarios, a “ground truth” or “best option” may not exist. To be comprehensible and predictable for other road users, a good plan should be a subs et of an expected prediction for a vehicle in the same situation. The combination of planning and prediction, including but not limited to their evaluation and benchmarking, is the third aim of the proposed workshop.
 
 
 Data-driven predictions can end up being implicitly conditioned on second-order effects. For example, seeing a recording vehicle or no driver in an autonomous car can influence traffic participant’s decisions. Fixed settings in automated functions, such as safe distances, can influence the traffic flow on highways. While this can potentially introduce a distribution shift for prediction algorithms it could be also leveraged to purposefully shape traffic. We invite therefore also approaches investigating these second-order effects, propagating in highly interactive scenarios.
 The topics of interest of the workshop include, but are not limited to:
 
-## Topics
 
-- Cooperative and comprehensible motion planning 
-- Probabilistic decision making and motion planning (including MDPs, POMDPs, MMDPs) 
-- Probabilistic behavior prediction (with help of semantic high-definition maps) 
-- Second-order effects in heavy interactive scenarios
-- Evaluation and benchmarking of the aforementioned topics
 
 
 

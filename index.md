@@ -59,7 +59,7 @@ t.b.d.
 
 - **Sascha Hornauer**, MINES Paris. Email: [sascha.hornauer@mines-paristech.fr](sascha.hornauer@mines-paristech.fr)
 - **Maximilian Naumann**, Bosch Center for Artificial Intelligence (BCAI)
-- **Eike Rehder**, 
+- **Eike Rehder**, Robert Bosch GmbH
 - **Jiachen Li**, Stanford University
 - **Wei Zhan**, University of California at Berkeley
 - **Martin Lauer**, Karlsruhe Institute of Technology (KIT)

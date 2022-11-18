@@ -9,7 +9,7 @@ title: 'Interaction-driven Behavior Prediction and Planning for Autonomous Vehic
 excerpt: 'An IV2023 workshop.'
 ---
 
-This workshop will be held at the [34rd IEEE Intelligent Vehicles Symposium (IV)](https://2023.ieee-iv.org/), on June 4th, 2022, in Anchorage, Alaska, USA. 
+This workshop will be held at the [34rd IEEE Intelligent Vehicles Symposium (IV)](https://2023.ieee-iv.org/), on June 4th, 2023, in Anchorage, Alaska, USA. 
 
 ## Call for Workshop Papers
 

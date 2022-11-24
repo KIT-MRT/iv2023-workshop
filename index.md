@@ -26,6 +26,7 @@ The submission format will have to adhere to the IV 2023 guidelines, as found at
 Submitted papers shall not exceed six pages (two additional pages allowed with a fee) as a PDF file in IEEE two column format. All presented papers will be published by the IEEE and the conference proceedings will be submitted to the IEEE Xplore digital library, as long they follow the same review process of IEEE IV 2023, so that each paper will undergo a peer-reviewing process by at least two members of the International Program Committee. Contributions will be reviewed according to relevance, originality and novel ideas, technical soundness and quality of presentation
 
 ## Topics
+The topics of interest of the workshop include, but are not limited to:
 
 - Cooperative and comprehensible motion planning 
 - Probabilistic decision making and motion planning (including MDPs, POMDPs, MMDPs) 
@@ -48,7 +49,6 @@ Research on Automated Vehicles has experienced vast progress over the last decad
 
 
 **Effects of Automation on Traffic**: Data-driven predictions can end up being implicitly conditioned on second-order effects. For example, seeing a recording vehicle or no driver in an autonomous car can influence traffic participant’s decisions. Fixed settings in automated functions, such as safe distances, can influence the traffic flow on highways. While this can potentially introduce a distribution shift for prediction algorithms it could be also leveraged to purposefully shape traffic. We invite therefore also approaches investigating these second-order effects, propagating in highly interactive scenarios.
-The topics of interest of the workshop include, but are not limited to:
 
 
 

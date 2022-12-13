@@ -13,17 +13,20 @@ This workshop will be held at the [34rd IEEE Intelligent Vehicles Symposium (IV)
 
 ## Call for Workshop Papers
 
-We will soon call for workshop contributions. Please find details on submission, scope and topics below and check this page regularly for updates. 
+The submission is now open for workshop papers for the IV 2023. Please submit your approach in the field of interaction-driven behavior prediction and planning, second-order effects of automation and evaluation and benchmarking (Detailed topic list and description below). 
 
 
-The submission format will have to adhere to the IV 2023 guidelines, as found at [https://2023.ieee-iv.org/paper-submission/](https://2023.ieee-iv.org/paper-submission/). They must be submitted in a single PDF file online via EDAS using our workshop code. The code will be made available end of November.
+- Please submit your manuscripts electronically as a single PDF file online via EDAS using the following link: [https://edas.info/newPaper.php?c=30459&track=115618](https://edas.info/newPaper.php?c=30459&track=115618)
+
+- The exact guidelines and templates for to be submitted papers can be found here: [https://2023.ieee-iv.org/paper-submission/](https://2023.ieee-iv.org/paper-submission/)
+Submitted papers shall not exceed **six** pages (two additional pages allowed with a fee) as a PDF file in IEEE two column format. All presented papers will be published by the IEEE and the conference proceedings will be submitted to the IEEE Xplore digital library, as long they follow the same review process of IEEE IV 2023, so that each paper will undergo a peer-reviewing process by at least two members of the International Program Committee. Contributions will be reviewed according to **relevance, originality and novel ideas, technical soundness and quality of presentation**. 
 
 ### Important Deadlines: 
 - February 01, 2023: Workshop Paper Submission Deadline (firm deadline, no extension)
 - March 30, 2023: Workshop Paper Notification of Acceptance
 - April 22, 2023: Workshop Final Paper Submission Deadline 
 
-Submitted papers shall not exceed six pages (two additional pages allowed with a fee) as a PDF file in IEEE two column format. All presented papers will be published by the IEEE and the conference proceedings will be submitted to the IEEE Xplore digital library, as long they follow the same review process of IEEE IV 2023, so that each paper will undergo a peer-reviewing process by at least two members of the International Program Committee. Contributions will be reviewed according to relevance, originality and novel ideas, technical soundness and quality of presentation
+In case of discrepencies with the deadlines on the official website, the ones on the website are the ones that are to be followed: [https://2023.ieee-iv.org/call-for-workshops/](https://2023.ieee-iv.org/call-for-workshops/)
 
 ## Topics
 The topics of interest of the workshop include, but are not limited to:

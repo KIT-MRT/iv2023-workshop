@@ -13,7 +13,7 @@ This workshop will be held at the [34rd IEEE Intelligent Vehicles Symposium (IV)
 
 ## Call for Workshop Papers
 
-The submission is now open for workshop papers for the IV 2023. Please submit your approach in the field of interaction-driven behavior prediction and planning, second-order effects of automation and evaluation and benchmarking (Detailed topic list and description below). 
+The submission is now open for workshop papers for the IV 2023. Please submit your approach in the field of interaction-driven behavior prediction and planning, second-order effects of automation or evaluation and benchmarking (Detailed topic list and description below). 
 
 
 - Please submit your manuscripts electronically as a single PDF file online via EDAS using the following link: [https://edas.info/newPaper.php?c=30459&track=115618](https://edas.info/newPaper.php?c=30459&track=115618)

@@ -26,7 +26,7 @@ Submitted papers shall not exceed **six** pages (two additional pages allowed wi
 - March 30, 2023: Workshop Paper Notification of Acceptance
 - April 22, 2023: Workshop Final Paper Submission Deadline 
 
-In case of discrepencies with the deadlines on the official website, the ones on the website are the ones that are to be followed: [https://2023.ieee-iv.org/call-for-workshops/](https://2023.ieee-iv.org/call-for-workshops/)
+In case of different deadlines on the official website, the ones on the website are to be followed: [https://2023.ieee-iv.org/call-for-workshops/](https://2023.ieee-iv.org/call-for-workshops/)
 
 ## Topics
 The topics of interest of the workshop include, but are not limited to:

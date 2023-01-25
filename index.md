@@ -76,6 +76,11 @@ t.b.d.
 
 Please get in touch with the organizers in case you have any further questions.
 
+## Publication and Attendance
+
+- Registration for the workshop-day or the whole conference is necessary to attend, except for IEEE ITSS members, which will receive free attendance to the workshop-day.
+- In case of acceptance of a submitted workshop paper, one author has to pay the full publication fee to include the paper into the proceedings. 
+
 ## Past Editions
 
 At IV2022, the organizers hosted a previous edition of this workshop: [https://kit-mrt.github.io/iv2022-workshop/](https://kit-mrt.github.io/iv2022-workshop/).

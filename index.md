@@ -70,8 +70,8 @@ td, th {
 th:empty {
     display: none;
 }
-td:empty {
-  visibility: hidden;
+table {
+  empty-cells: hide;
 }
 </style>
 

@@ -72,12 +72,14 @@ th:empty {
 }
 </style>
 
-|  |  |  |
+||||
 | :-: | :-: | :-: |
 | <img src="https://cloud.minesparis.psl.eu/index.php/s/8Ih7coZPaAkRkId/download" width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/uM0S69C2HvK1P0g/download" width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/xUp0YRt2gkYeCrW/download" width="196" height="250"> | 
 | **Sascha Hornauer**<br /> MINES Paris | **Maximilian Naumann** <br /> Bosch Center for<br /> Artificial Intelligence (BCAI) | **Eike Rehder** <br />  Robert Bosch GmbH |
-<img src="https://cloud.minesparis.psl.eu/index.php/s/EeNQ4Sd6Xvd3bpj/download"  width="196" height="250"> <br /> **Jiachen Li** <br /> Stanford University | <img src="https://cloud.minesparis.psl.eu/index.php/s/St0MsMoWj08Ui6K/download"  width="196" height="250"> <br /> **Wei Zhan** <br /> University of California<br /> at Berkeley| <img src="https://cloud.minesparis.psl.eu/index.php/s/nR8bFlVEe4QlsPp/download"  width="196" height="250"> <br />  **Martin Lauer** <br />  Karlsruhe Institute of<br /> Technology (KIT) |
-| <img src="https://cloud.minesparis.psl.eu/index.php/s/QATKLUjJ1l2BA6F/download"  width="196" height="250"> <br /> **Masayoshi Tomizuka** <br /> University of California<br /> at Berkeley | <img src="https://cloud.minesparis.psl.eu/index.php/s/EHn5azQzYNmRmM0/download"  width="196" height="250"> <br /> **Arnaud de La Fortelle** <br /> Heex Technologies | <img src="https://cloud.minesparis.psl.eu/index.php/s/F2fdqs7ZuidY5fW/download"  width="196" height="250"> <br /> **Christoph Stiller** <br /> Karlsruhe Institute<br /> of Technology (KIT) |
+<img src="https://cloud.minesparis.psl.eu/index.php/s/EeNQ4Sd6Xvd3bpj/download"  width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/St0MsMoWj08Ui6K/download"  width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/nR8bFlVEe4QlsPp/download"  width="196" height="250"> |
+| **Jiachen Li** <br /> Stanford University | **Wei Zhan** <br /> University of California<br /> at Berkeley | **Martin Lauer** <br />  Karlsruhe Institute of<br /> Technology (KIT) |
+| <img src="https://cloud.minesparis.psl.eu/index.php/s/QATKLUjJ1l2BA6F/download"  width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/EHn5azQzYNmRmM0/download"  width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/F2fdqs7ZuidY5fW/download"  width="196" height="250"> |
+| **Masayoshi Tomizuka** <br /> University of California<br /> at Berkeley | **Arnaud de La Fortelle** <br /> Heex Technologies | **Christoph Stiller** <br /> Karlsruhe Institute<br /> of Technology (KIT) | 
 
 
 Please get in touch with  [sascha.hornauer@mines-paristech.fr](sascha.hornauer@mines-paristech.fr) or any of the organizers in case you have any further questions.

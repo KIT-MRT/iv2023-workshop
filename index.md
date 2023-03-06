@@ -70,6 +70,9 @@ td, th {
 th:empty {
     display: none;
 }
+td:empty {
+  visibility: hidden;
+}
 </style>
 
 ||||

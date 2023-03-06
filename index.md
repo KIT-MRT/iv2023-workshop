@@ -67,6 +67,9 @@ t.b.d.
 td, th {
    border: none!important;
 }
+th:empty {
+    display: none;
+}
 </style>
 
 |  |  |  |

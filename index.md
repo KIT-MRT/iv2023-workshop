@@ -69,9 +69,10 @@ t.b.d.
 | Content Cell  | Content Cell  |
 
 ## Organizers
-| | | |
-| ------------------------- | ------------------------- | ------------------------- |
-| test||| 
+
+| header test | header test | header test  |
+| - | - | - |
+| a | a | a | 
 
 
 Please get in touch with  [sascha.hornauer@mines-paristech.fr](sascha.hornauer@mines-paristech.fr) or any of the organizers in case you have any further questions.

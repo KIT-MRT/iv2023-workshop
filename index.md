@@ -62,19 +62,14 @@ Research on Automated Vehicles has experienced vast progress over the last decad
 t.b.d.                                                                
 
 ## Organizers
-
-- **Sascha Hornauer**, MINES Paris. Email: [sascha.hornauer@mines-paristech.fr](sascha.hornauer@mines-paristech.fr)
-- **Maximilian Naumann**, Bosch Center for Artificial Intelligence (BCAI)
-- **Eike Rehder**, Robert Bosch GmbH
-- **Jiachen Li**, Stanford University
-- **Wei Zhan**, University of California at Berkeley
-- **Martin Lauer**, Karlsruhe Institute of Technology (KIT)
-- **Masayoshi Tomizuka**, University of California at Berkeley
-- **Arnaud de La Fortelle**, Heex Technologies
-- **Christoph Stiller**, Karlsruhe Institute of Technology (KIT)
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| <img src="https://cloud.minesparis.psl.eu/index.php/s/8Ih7coZPaAkRkId/download"  width="196" height="250"> <br /> **Sascha Hornauer**<br /> MINES Paris | <img src="https://cloud.minesparis.psl.eu/index.php/s/uM0S69C2HvK1P0g/download"  width="196" height="250"> <br /> **Maximilian Naumann** <br /> Bosch Center for Artificial Intelligence (BCAI)| <img src="https://cloud.minesparis.psl.eu/index.php/s/xUp0YRt2gkYeCrW/download" width="196" height="250"> <br />  **Eike Rehder** <br />  Robert Bosch GmbH | 
+| <img src="https://cloud.minesparis.psl.eu/index.php/s/EeNQ4Sd6Xvd3bpj/download"  width="196" height="250"> <br /> **Jiachen Li** <br /> Stanford University | <img src="https://cloud.minesparis.psl.eu/index.php/s/St0MsMoWj08Ui6K/download"  width="196" height="250"> <br /> **Wei Zhan** <br /> University of California at Berkeley| <img src="https://cloud.minesparis.psl.eu/index.php/s/nR8bFlVEe4QlsPp/download"  width="196" height="250"> <br />  **Martin Lauer** <br />  Karlsruhe Institute of Technology (KIT) |
+| <img src="https://cloud.minesparis.psl.eu/index.php/s/QATKLUjJ1l2BA6F/download"  width="196" height="250"> <br /> **Masayoshi Tomizuka** <br /> University of California at Berkeley | <img src="https://cloud.minesparis.psl.eu/index.php/s/EHn5azQzYNmRmM0/download"  width="196" height="250"> <br /> **Arnaud de La Fortelle** <br /> Heex Technologies | <img src="https://cloud.minesparis.psl.eu/index.php/s/F2fdqs7ZuidY5fW/download"  width="196" height="250"> <br /> **Christoph Stiller** <br /> Karlsruhe Institute of Technology (KIT) |
 
 
-Please get in touch with the organizers in case you have any further questions.
+Please get in touch with  [sascha.hornauer@mines-paristech.fr](sascha.hornauer@mines-paristech.fr) or any of the organizers in case you have any further questions.
 
 ## Publication and Attendance
 

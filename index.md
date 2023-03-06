@@ -65,6 +65,11 @@ t.b.d.
 
 
 ## Organizers
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 |  |  |  |
 | - | - | - |

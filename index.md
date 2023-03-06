@@ -71,7 +71,7 @@ t.b.d.
 ## Organizers
 | | | |
 | ------------------------- | ------------------------- | ------------------------- |
-| <img src="https://cloud.minesparis.psl.eu/index.php/s/8Ih7coZPaAkRkId/download" width="196" height="250"> <br /> **Sascha Hornauer**<br /> MINES Paris | <img src="https://cloud.minesparis.psl.eu/index.php/s/uM0S69C2HvK1P0g/download" width="196" height="250"> <br /> **Maximilian Naumann** <br /> Bosch Center for Artificial Intelligence (BCAI) | <img src="https://cloud.minesparis.psl.eu/index.php/s/xUp0YRt2gkYeCrW/download" width="196" height="250"> <br />  **Eike Rehder** <br />  Robert Bosch GmbH | 
+| <p><img src="https://cloud.minesparis.psl.eu/index.php/s/8Ih7coZPaAkRkId/download" width="196" height="250"> <br /> **Sascha Hornauer**<br /> MINES Paris </p>||| 
 
 
 Please get in touch with  [sascha.hornauer@mines-paristech.fr](sascha.hornauer@mines-paristech.fr) or any of the organizers in case you have any further questions.

@@ -13,7 +13,7 @@ This workshop will be held at the [34rd IEEE Intelligent Vehicles Symposium (IV)
 
 ## Registration for IV is now open!
 
-Please register at (here)[https://web.cvent.com/event/ca4ccee9-7192-48a5-b6ab-3dcd9c4b803e/regProcessStep1] for the conference and workshop. IEEE ITSS members will receive a free workshops day only registration.
+Please register at [here](https://web.cvent.com/event/ca4ccee9-7192-48a5-b6ab-3dcd9c4b803e/regProcessStep1) for the conference and workshop. IEEE ITSS members will receive a free workshops day only registration.
 
 ## Topics
 The topics of interest of the workshop include, but are not limited to:
@@ -67,7 +67,6 @@ table {
 }
 </style>
 
-<div align="center">
 ||||
 | :-: | :-: | :-: |
 | <img src="https://cloud.minesparis.psl.eu/index.php/s/8Ih7coZPaAkRkId/download" width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/uM0S69C2HvK1P0g/download" width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/xUp0YRt2gkYeCrW/download" width="196" height="250"> | 
@@ -76,7 +75,7 @@ table {
 | **Jiachen Li** <br /> Stanford University | **Wei Zhan** <br /> University of California<br /> at Berkeley | **Martin Lauer** <br />  Karlsruhe Institute of<br /> Technology (KIT) |
 | <img src="https://cloud.minesparis.psl.eu/index.php/s/QATKLUjJ1l2BA6F/download"  width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/EHn5azQzYNmRmM0/download"  width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/F2fdqs7ZuidY5fW/download"  width="196" height="250"> |
 | **Masayoshi Tomizuka** <br /> University of California<br /> at Berkeley | **Arnaud de La Fortelle** <br /> Heex Technologies | **Christoph Stiller** <br /> Karlsruhe Institute<br /> of Technology (KIT) | 
-</div>
+
 
 Please get in touch with  [sascha.hornauer@mines-paristech.fr](sascha.hornauer@mines-paristech.fr) or any of the organizers in case you have any further questions.
 

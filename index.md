@@ -11,22 +11,9 @@ excerpt: 'An IV2023 workshop.'
 
 This workshop will be held at the [34rd IEEE Intelligent Vehicles Symposium (IV)](https://2023.ieee-iv.org/), on June 4th, 2023, in Anchorage, Alaska, USA. 
 
-## Call for Workshop Papers
+## Registration for IV is now open!
 
-The submission is now open for workshop papers for the IV 2023. Please submit your approach in the field of interaction-driven behavior prediction and planning, second-order effects of automation or evaluation and benchmarking (Detailed topic list and description below). 
-
-
-- Please submit your manuscripts electronically as a single PDF file online via EDAS using the following link: [https://edas.info/newPaper.php?c=30459&track=115618](https://edas.info/newPaper.php?c=30459&track=115618)
-
-- The exact guidelines and templates for to be submitted papers can be found here: [https://2023.ieee-iv.org/paper-submission/](https://2023.ieee-iv.org/paper-submission/)
-Submitted papers shall not exceed **six** pages (two additional pages allowed with a fee) as a PDF file in IEEE two column format. All presented papers will be published by the IEEE and the conference proceedings will be submitted to the IEEE Xplore digital library, as long they follow the same review process of IEEE IV 2023, so that each paper will undergo a peer-reviewing process by at least two members of the International Program Committee. Contributions will be reviewed according to **relevance, originality and novel ideas, technical soundness and quality of presentation**. 
-
-### Important Deadlines: 
-- February 01, 2023: Workshop Paper Submission Deadline (firm deadline, no extension)
-- March 30, 2023: Workshop Paper Notification of Acceptance
-- April 22, 2023: Workshop Final Paper Submission Deadline 
-
-In case of different deadlines on the official website, the ones on the website are to be followed: [https://2023.ieee-iv.org/call-for-workshops/](https://2023.ieee-iv.org/call-for-workshops/)
+Please register at (here)[https://web.cvent.com/event/ca4ccee9-7192-48a5-b6ab-3dcd9c4b803e/regProcessStep1] for the conference and workshop. IEEE ITSS members will receive a free workshops day only registration.
 
 ## Topics
 The topics of interest of the workshop include, but are not limited to:
@@ -37,7 +24,14 @@ The topics of interest of the workshop include, but are not limited to:
 - Second-order effects in heavy interactive scenarios
 - Evaluation and benchmarking of the aforementioned topics
 
-## About the Workshop
+### Important Deadlines: 
+- February 01, 2023: Workshop Paper Submission Deadline (firm deadline, no extension)
+- March 30, 2023: Workshop Paper Notification of Acceptance
+- April 22, 2023: Workshop Final Paper Submission Deadline 
+
+In case of different deadlines on the official website, the ones on the website are to be followed: [https://2023.ieee-iv.org/call-for-workshops/](https://2023.ieee-iv.org/call-for-workshops/)
+
+## Workshop Content
 
 Research on Automated Vehicles has experienced vast progress over the last decades. Today, first prototypes are sufficiently safe to drive on selected roads in public traffic. Nevertheless, safety comes at the price of overly conservative behavior, leading to inconvenient situations, for example, at unprotected left turns or merging scenarios. Presumably, the main reasons for this behavior include (a) errors in the prediction of other traffic participants, especially in interactive scenarios and (b) the lack of probabilistic considerations in motion planning. 
 
@@ -52,8 +46,6 @@ Research on Automated Vehicles has experienced vast progress over the last decad
 
 
 **Effects of Automation on Traffic**: Data-driven predictions can end up being implicitly conditioned on second-order effects. For example, seeing a recording vehicle or no driver in an autonomous car can influence traffic participant’s decisions. Fixed settings in automated functions, such as safe distances, can influence the traffic flow on highways. While this can potentially introduce a distribution shift for prediction algorithms it could be also leveraged to purposefully shape traffic. We invite therefore also approaches investigating these second-order effects, propagating in highly interactive scenarios.
-
-
 
 
 
@@ -75,7 +67,7 @@ table {
 }
 </style>
 
-
+<div align="center">
 ||||
 | :-: | :-: | :-: |
 | <img src="https://cloud.minesparis.psl.eu/index.php/s/8Ih7coZPaAkRkId/download" width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/uM0S69C2HvK1P0g/download" width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/xUp0YRt2gkYeCrW/download" width="196" height="250"> | 
@@ -84,7 +76,7 @@ table {
 | **Jiachen Li** <br /> Stanford University | **Wei Zhan** <br /> University of California<br /> at Berkeley | **Martin Lauer** <br />  Karlsruhe Institute of<br /> Technology (KIT) |
 | <img src="https://cloud.minesparis.psl.eu/index.php/s/QATKLUjJ1l2BA6F/download"  width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/EHn5azQzYNmRmM0/download"  width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/F2fdqs7ZuidY5fW/download"  width="196" height="250"> |
 | **Masayoshi Tomizuka** <br /> University of California<br /> at Berkeley | **Arnaud de La Fortelle** <br /> Heex Technologies | **Christoph Stiller** <br /> Karlsruhe Institute<br /> of Technology (KIT) | 
-
+</div>
 
 Please get in touch with  [sascha.hornauer@mines-paristech.fr](sascha.hornauer@mines-paristech.fr) or any of the organizers in case you have any further questions.
 

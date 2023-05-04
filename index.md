@@ -70,17 +70,6 @@ Research on Automated Vehicles has experienced vast progress over the last decad
 
 
 ## Organizers
-<style>
-td, th {
-   border: none!important;
-}
-th:empty {
-    display: none;
-}
-table {
-  empty-cells: hide;
-}
-</style>
 
 ||||
 | :-: | :-: | :-: |

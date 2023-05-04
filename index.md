@@ -49,9 +49,24 @@ Research on Automated Vehicles has experienced vast progress over the last decad
 
 
 
-## Agenda
+## Preliminary Agenda
 
-t.b.d.                                                                
+||||||
+| :-: | :-: | :-: | :-: | :-: |
+|08:30|Opening Ceremony||||
+|08:35|Talk|Gonca Guersun|Developing Deep Neural Network Models for Behavior Prediction and Vehicle Interaction|Bosch Center for Artificial Intelligence, DE|
+|08:54|Talk|To Be Confirmed|Traffic Light and Uncertainty Aware Pedestrian Crossing Intention Prediction for Automated Vehicles|
+|09:13|Talk|Raphael Trumpp|Learning to Interact: Scalable State Representations for Autonomous Driving|Technical University of Munich, DE|
+|09:32|Talk|Julian Schmidt|Exploring Navigation Maps for Learning-Based Motion Prediction|Mercedes-Benz AG, DE|
+|09:51|Talk|Julian Wiederer|To be determined|Mercedes-Benz AG, DE|
+|10:10|Talk|Masha Itakina|Occlusion Inference Using People as Sensors|Toyota Research Institute, US|
+|10:29|Coffee Break|||
+|10:48|Talk|Thomas Genevois|Interaction-aware Motion Planning as an Alternative to Proactive Planning for Human-aware Navigation|INRIA, FR|
+|11:07|Talk|Maximilian Kloock||FEV Europe, DE|
+|11:26|Talk|Chris van der Ploeg|Exploiting situational awareness for risk-averse motion planning|TNO Integrated Vehicle Safety, NL|
+|11:45|Talk|Marion Neumeier|Connecting the Nodes: Graph-based Approaches for Predicting Trajectories|CARISSMA Institute of Automated Driving, DE|
+|12:04|Talk|Zhe Fu|The MegaVanderTest: Massive CAV Experiment in Nashville Pits Machine Learning against Traffic Jam|UC Berkeley, US|
+|12:23|Panel session and closing ceremony||||
 
 
 ## Organizers

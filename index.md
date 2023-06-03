@@ -59,7 +59,8 @@ Research on Automated Vehicles has experienced vast progress over the last decad
 |09:13|Talk|Raphael Trumpp|Learning to Interact: Scalable State Representations for Autonomous Driving|Technical University of Munich, DE|
 |09:32|Talk|Julian Schmidt|Exploring Navigation Maps for Learning-Based Motion Prediction|Mercedes-Benz AG, DE|
 |09:51|Talk|Julian Wiederer|Unsupervised Learning for the Detection of Driving Anomalies|Mercedes-Benz AG, DE|
-|10:10|Talk|Masha Itakina|Occlusion Inference Using People as Sensors|Toyota Research Institute, US|
+|10:10|Talk|Masha Itkina|Occlusion Inference Using People as Sensors|Stanford University/Toyota
+Research Institute (TRI), US|
 |10:29|Coffee Break|||
 |10:48|Talk|Thomas Genevois|Interaction-aware Motion Planning as an Alternative to Proactive Planning for Human-aware Navigation|INRIA, FR|
 |11:07|Talk|Maximilian Kloock|Distributed Decision-Making using Cooperative Model Predictive Control|FEV Europe, DE|

@@ -11,6 +11,8 @@ excerpt: 'An IV2023 workshop.'
 
 This workshop will be held at the [34rd IEEE Intelligent Vehicles Symposium (IV)](https://2023.ieee-iv.org/), on June 4th, 2023, in Anchorage, Alaska, USA. 
 
+### [Join via Zoom!](https://minesparis-psl-eu.zoom.us/j/93403014512?pwd=RmpzS1FralVmQnFzT25oYmpFZGxGdz09)
+
 ## Registration for IV is now open!
 
 Please register at [here](https://web.cvent.com/event/ca4ccee9-7192-48a5-b6ab-3dcd9c4b803e/regProcessStep1) for the conference and workshop. IEEE ITSS members will receive a free workshops day only registration.

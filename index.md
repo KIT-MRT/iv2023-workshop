@@ -64,7 +64,7 @@ Research on Automated Vehicles has experienced vast progress over the last decad
 |10:10|Talk|Masha Itkina|Occlusion Inference Using People as Sensors|Stanford University/Toyota Research Institute (TRI), US|
 |10:29|Coffee Break|||
 |10:48|Talk|Thomas Genevois|Interaction-aware Motion Planning as an Alternative to Proactive Planning for Human-aware Navigation|INRIA, FR|
-|11:07|Talk|Maximilian Kloock|Distributed Decision-Making using Cooperative Model Predictive Control|FEV Europe, DE|
+|11:07|Talk|Maximilian Kloock|Distributed Decision-Making using Cooperative Model Predictive Control|RWTH Aachen University, DE|
 |11:26|Talk|Chris van der Ploeg|Exploiting situational awareness for risk-averse motion planning|TNO Integrated Vehicle Safety, NL|
 |11:45|Talk|Marion Neumeier|Connecting the Nodes: Graph-based Approaches for Predicting Trajectories|CARISSMA Institute of Automated Driving, DE|
 |12:04|Talk|Zhe Fu|The MegaVanderTest: Massive CAV Experiment in Nashville Pits Machine Learning against Traffic Jam|UC Berkeley, US|
